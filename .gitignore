@@ -1,3 +1,11 @@
+# virtual environment
+venv/
+.venv/
+
+# user
+.vscode/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
